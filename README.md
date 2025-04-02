@@ -1,4 +1,4 @@
-# open_voting
+# open-voting
 
 A Turing-complete modern democracy solution
 
